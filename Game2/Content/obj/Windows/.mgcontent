@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/Arquivos de Programas/aquii/Portifolio Site/Truco/Game2/Content/CartaCosta.jpg</File>
+    <File>D:/Arquivos de Programas/aquii/Portifolio Site/Truco/Game2/Content/Arial.spritefont</File>
+    <File>D:/Arquivos de Programas/aquii/Portifolio Site/Truco/Game2/Content/Arial14.spritefont</File>
+    <File>D:/Arquivos de Programas/aquii/Portifolio Site/Truco/Game2/Content/Arial18.spritefont</File>
+    <File>D:/Arquivos de Programas/aquii/Portifolio Site/Truco/Game2/Content/Arial24.spritefont</File>
+    <File>D:/Arquivos de Programas/aquii/Portifolio Site/Truco/Game2/Content/ArialGrande.spritefont</File>
+    <File>D:/Arquivos de Programas/aquii/Portifolio Site/Truco/Game2/Content/botao.png</File>
+    <File>D:/Arquivos de Programas/aquii/Portifolio Site/Truco/Game2/Content/Calvin.png</File>
+    <File>D:/Arquivos de Programas/aquii/Portifolio Site/Truco/Game2/Content/fundo.jpg</File>
+    <File>D:/Arquivos de Programas/aquii/Portifolio Site/Truco/Game2/Content/Puc.png</File>
+    <File>D:/Arquivos de Programas/aquii/Portifolio Site/Truco/Game2/Content/Verdana.spritefont</File>
+    <File>D:/Arquivos de Programas/aquii/Portifolio Site/Truco/Game2/Content/Carta1.png</File>
+    <File>D:/Arquivos de Programas/aquii/Portifolio Site/Truco/Game2/Content/Carta2.png</File>
+    <File>D:/Arquivos de Programas/aquii/Portifolio Site/Truco/Game2/Content/Carta3.png</File>
+    <File>D:/Arquivos de Programas/aquii/Portifolio Site/Truco/Game2/Content/Carta4.png</File>
+    <File>D:/Arquivos de Programas/aquii/Portifolio Site/Truco/Game2/Content/Carta5.png</File>
+    <File>D:/Arquivos de Programas/aquii/Portifolio Site/Truco/Game2/Content/Carta6.png</File>
+    <File>D:/Arquivos de Programas/aquii/Portifolio Site/Truco/Game2/Content/Carta7.png</File>
+    <File>D:/Arquivos de Programas/aquii/Portifolio Site/Truco/Game2/Content/Carta8.png</File>
+    <File>D:/Arquivos de Programas/aquii/Portifolio Site/Truco/Game2/Content/Carta9.png</File>
+    <File>D:/Arquivos de Programas/aquii/Portifolio Site/Truco/Game2/Content/Carta10.png</File>
+    <File>D:/Arquivos de Programas/aquii/Portifolio Site/Truco/Game2/Content/Carta11.png</File>
+    <File>D:/Arquivos de Programas/aquii/Portifolio Site/Truco/Game2/Content/Carta12.png</File>
+    <File>D:/Arquivos de Programas/aquii/Portifolio Site/Truco/Game2/Content/Carta13.png</File>
+    <File>D:/Arquivos de Programas/aquii/Portifolio Site/Truco/Game2/Content/Carta14.png</File>
+    <File>D:/Arquivos de Programas/aquii/Portifolio Site/Truco/Game2/Content/Carta15.png</File>
+    <File>D:/Arquivos de Programas/aquii/Portifolio Site/Truco/Game2/Content/Carta16.png</File>
+    <File>D:/Arquivos de Programas/aquii/Portifolio Site/Truco/Game2/Content/Carta17.png</File>
+    <File>D:/Arquivos de Programas/aquii/Portifolio Site/Truco/Game2/Content/Carta18.png</File>
+    <File>D:/Arquivos de Programas/aquii/Portifolio Site/Truco/Game2/Content/Carta19.png</File>
+    <File>D:/Arquivos de Programas/aquii/Portifolio Site/Truco/Game2/Content/Carta20.png</File>
+    <File>D:/Arquivos de Programas/aquii/Portifolio Site/Truco/Game2/Content/Carta21.png</File>
+    <File>D:/Arquivos de Programas/aquii/Portifolio Site/Truco/Game2/Content/Carta22.png</File>
+    <File>D:/Arquivos de Programas/aquii/Portifolio Site/Truco/Game2/Content/Carta23.png</File>
+    <File>D:/Arquivos de Programas/aquii/Portifolio Site/Truco/Game2/Content/Carta24.png</File>
+    <File>D:/Arquivos de Programas/aquii/Portifolio Site/Truco/Game2/Content/Carta25.png</File>
+    <File>D:/Arquivos de Programas/aquii/Portifolio Site/Truco/Game2/Content/Carta26.png</File>
+    <File>D:/Arquivos de Programas/aquii/Portifolio Site/Truco/Game2/Content/Carta27.png</File>
+    <File>D:/Arquivos de Programas/aquii/Portifolio Site/Truco/Game2/Content/Carta28.png</File>
+    <File>D:/Arquivos de Programas/aquii/Portifolio Site/Truco/Game2/Content/Carta29.png</File>
+    <File>D:/Arquivos de Programas/aquii/Portifolio Site/Truco/Game2/Content/Carta30.png</File>
+    <File>D:/Arquivos de Programas/aquii/Portifolio Site/Truco/Game2/Content/Carta31.png</File>
+    <File>D:/Arquivos de Programas/aquii/Portifolio Site/Truco/Game2/Content/Carta32.png</File>
+    <File>D:/Arquivos de Programas/aquii/Portifolio Site/Truco/Game2/Content/Carta33.png</File>
+    <File>D:/Arquivos de Programas/aquii/Portifolio Site/Truco/Game2/Content/Carta34.png</File>
+    <File>D:/Arquivos de Programas/aquii/Portifolio Site/Truco/Game2/Content/Carta35.png</File>
+    <File>D:/Arquivos de Programas/aquii/Portifolio Site/Truco/Game2/Content/Carta36.png</File>
+    <File>D:/Arquivos de Programas/aquii/Portifolio Site/Truco/Game2/Content/Carta37.png</File>
+    <File>D:/Arquivos de Programas/aquii/Portifolio Site/Truco/Game2/Content/Carta38.png</File>
+    <File>D:/Arquivos de Programas/aquii/Portifolio Site/Truco/Game2/Content/Carta39.png</File>
+    <File>D:/Arquivos de Programas/aquii/Portifolio Site/Truco/Game2/Content/Carta40.png</File>
+    <File>D:/Arquivos de Programas/aquii/Portifolio Site/Truco/Game2/Content/propaganda.jpg</File>
+    <File>D:/Arquivos de Programas/aquii/Portifolio Site/Truco/Game2/Content/fundoverde.jpg</File>
+    <File>D:/Arquivos de Programas/aquii/Portifolio Site/Truco/Game2/Content/fundotruco.jpg</File>
+    <File>D:/Arquivos de Programas/aquii/Portifolio Site/Truco/Game2/Content/bg amarelo.jpg</File>
+  </SourceFiles>
+</SourceFileCollection>

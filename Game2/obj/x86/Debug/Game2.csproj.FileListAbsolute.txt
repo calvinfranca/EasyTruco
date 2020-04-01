@@ -1,0 +1,160 @@
+C:\Users\CALVIN DO AMARAL\source\repos\teste\Game2\bin\Windows\x86\Debug\Game2.exe
+C:\Users\CALVIN DO AMARAL\source\repos\teste\Game2\bin\Windows\x86\Debug\Game2.pdb
+C:\Users\CALVIN DO AMARAL\source\repos\teste\Game2\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\CALVIN DO AMARAL\source\repos\teste\Game2\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\CALVIN DO AMARAL\source\repos\teste\Game2\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\CALVIN DO AMARAL\source\repos\teste\Game2\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\CALVIN DO AMARAL\source\repos\teste\Game2\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\CALVIN DO AMARAL\source\repos\teste\Game2\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\CALVIN DO AMARAL\source\repos\teste\Game2\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\CALVIN DO AMARAL\source\repos\teste\Game2\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\CALVIN DO AMARAL\source\repos\teste\Game2\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\CALVIN DO AMARAL\source\repos\teste\Game2\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\CALVIN DO AMARAL\source\repos\teste\Game2\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\CALVIN DO AMARAL\source\repos\teste\Game2\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\CALVIN DO AMARAL\source\repos\teste\Game2\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\CALVIN DO AMARAL\source\repos\teste\Game2\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\CALVIN DO AMARAL\source\repos\teste\Game2\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\CALVIN DO AMARAL\source\repos\teste\Game2\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\CALVIN DO AMARAL\source\repos\teste\Game2\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\CALVIN DO AMARAL\source\repos\teste\Game2\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\CALVIN DO AMARAL\source\repos\teste\Game2\obj\x86\Debug\Game2.csprojAssemblyReference.cache
+C:\Users\CALVIN DO AMARAL\source\repos\teste\Game2\obj\x86\Debug\Game2.csproj.CoreCompileInputs.cache
+C:\Users\CALVIN DO AMARAL\source\repos\teste\Game2\obj\x86\Debug\Game2.csproj.CopyComplete
+C:\Users\CALVIN DO AMARAL\source\repos\teste\Game2\obj\x86\Debug\Game2.exe
+C:\Users\CALVIN DO AMARAL\source\repos\teste\Game2\obj\x86\Debug\Game2.pdb
+C:\Users\CALVIN DO AMARAL\source\repos\teste\Game2\bin\Windows\x86\Debug\Content\Arial.xnb
+C:\Users\CALVIN DO AMARAL\source\repos\teste\Game2\bin\Windows\x86\Debug\Content\Arial14.xnb
+C:\Users\CALVIN DO AMARAL\source\repos\teste\Game2\bin\Windows\x86\Debug\Content\Arial18.xnb
+C:\Users\CALVIN DO AMARAL\source\repos\teste\Game2\bin\Windows\x86\Debug\Content\Arial24.xnb
+C:\Users\CALVIN DO AMARAL\source\repos\teste\Game2\bin\Windows\x86\Debug\Content\ArialGrande.xnb
+C:\Users\CALVIN DO AMARAL\source\repos\teste\Game2\bin\Windows\x86\Debug\Content\botao.xnb
+C:\Users\CALVIN DO AMARAL\source\repos\teste\Game2\bin\Windows\x86\Debug\Content\Calvin.xnb
+C:\Users\CALVIN DO AMARAL\source\repos\teste\Game2\bin\Windows\x86\Debug\Content\Carta1.xnb
+C:\Users\CALVIN DO AMARAL\source\repos\teste\Game2\bin\Windows\x86\Debug\Content\Carta10.xnb
+C:\Users\CALVIN DO AMARAL\source\repos\teste\Game2\bin\Windows\x86\Debug\Content\Carta11.xnb
+C:\Users\CALVIN DO AMARAL\source\repos\teste\Game2\bin\Windows\x86\Debug\Content\Carta12.xnb
+C:\Users\CALVIN DO AMARAL\source\repos\teste\Game2\bin\Windows\x86\Debug\Content\Carta13.xnb
+C:\Users\CALVIN DO AMARAL\source\repos\teste\Game2\bin\Windows\x86\Debug\Content\Carta14.xnb
+C:\Users\CALVIN DO AMARAL\source\repos\teste\Game2\bin\Windows\x86\Debug\Content\Carta15.xnb
+C:\Users\CALVIN DO AMARAL\source\repos\teste\Game2\bin\Windows\x86\Debug\Content\Carta16.xnb
+C:\Users\CALVIN DO AMARAL\source\repos\teste\Game2\bin\Windows\x86\Debug\Content\Carta17.xnb
+C:\Users\CALVIN DO AMARAL\source\repos\teste\Game2\bin\Windows\x86\Debug\Content\Carta18.xnb
+C:\Users\CALVIN DO AMARAL\source\repos\teste\Game2\bin\Windows\x86\Debug\Content\Carta19.xnb
+C:\Users\CALVIN DO AMARAL\source\repos\teste\Game2\bin\Windows\x86\Debug\Content\Carta2.xnb
+C:\Users\CALVIN DO AMARAL\source\repos\teste\Game2\bin\Windows\x86\Debug\Content\Carta20.xnb
+C:\Users\CALVIN DO AMARAL\source\repos\teste\Game2\bin\Windows\x86\Debug\Content\Carta21.xnb
+C:\Users\CALVIN DO AMARAL\source\repos\teste\Game2\bin\Windows\x86\Debug\Content\Carta22.xnb
+C:\Users\CALVIN DO AMARAL\source\repos\teste\Game2\bin\Windows\x86\Debug\Content\Carta23.xnb
+C:\Users\CALVIN DO AMARAL\source\repos\teste\Game2\bin\Windows\x86\Debug\Content\Carta24.xnb
+C:\Users\CALVIN DO AMARAL\source\repos\teste\Game2\bin\Windows\x86\Debug\Content\Carta25.xnb
+C:\Users\CALVIN DO AMARAL\source\repos\teste\Game2\bin\Windows\x86\Debug\Content\Carta26.xnb
+C:\Users\CALVIN DO AMARAL\source\repos\teste\Game2\bin\Windows\x86\Debug\Content\Carta27.xnb
+C:\Users\CALVIN DO AMARAL\source\repos\teste\Game2\bin\Windows\x86\Debug\Content\Carta28.xnb
+C:\Users\CALVIN DO AMARAL\source\repos\teste\Game2\bin\Windows\x86\Debug\Content\Carta29.xnb
+C:\Users\CALVIN DO AMARAL\source\repos\teste\Game2\bin\Windows\x86\Debug\Content\Carta3.xnb
+C:\Users\CALVIN DO AMARAL\source\repos\teste\Game2\bin\Windows\x86\Debug\Content\Carta30.xnb
+C:\Users\CALVIN DO AMARAL\source\repos\teste\Game2\bin\Windows\x86\Debug\Content\Carta31.xnb
+C:\Users\CALVIN DO AMARAL\source\repos\teste\Game2\bin\Windows\x86\Debug\Content\Carta32.xnb
+C:\Users\CALVIN DO AMARAL\source\repos\teste\Game2\bin\Windows\x86\Debug\Content\Carta33.xnb
+C:\Users\CALVIN DO AMARAL\source\repos\teste\Game2\bin\Windows\x86\Debug\Content\Carta34.xnb
+C:\Users\CALVIN DO AMARAL\source\repos\teste\Game2\bin\Windows\x86\Debug\Content\Carta35.xnb
+C:\Users\CALVIN DO AMARAL\source\repos\teste\Game2\bin\Windows\x86\Debug\Content\Carta36.xnb
+C:\Users\CALVIN DO AMARAL\source\repos\teste\Game2\bin\Windows\x86\Debug\Content\Carta37.xnb
+C:\Users\CALVIN DO AMARAL\source\repos\teste\Game2\bin\Windows\x86\Debug\Content\Carta38.xnb
+C:\Users\CALVIN DO AMARAL\source\repos\teste\Game2\bin\Windows\x86\Debug\Content\Carta39.xnb
+C:\Users\CALVIN DO AMARAL\source\repos\teste\Game2\bin\Windows\x86\Debug\Content\Carta4.xnb
+C:\Users\CALVIN DO AMARAL\source\repos\teste\Game2\bin\Windows\x86\Debug\Content\Carta40.xnb
+C:\Users\CALVIN DO AMARAL\source\repos\teste\Game2\bin\Windows\x86\Debug\Content\Carta5.xnb
+C:\Users\CALVIN DO AMARAL\source\repos\teste\Game2\bin\Windows\x86\Debug\Content\Carta6.xnb
+C:\Users\CALVIN DO AMARAL\source\repos\teste\Game2\bin\Windows\x86\Debug\Content\Carta7.xnb
+C:\Users\CALVIN DO AMARAL\source\repos\teste\Game2\bin\Windows\x86\Debug\Content\Carta8.xnb
+C:\Users\CALVIN DO AMARAL\source\repos\teste\Game2\bin\Windows\x86\Debug\Content\Carta9.xnb
+C:\Users\CALVIN DO AMARAL\source\repos\teste\Game2\bin\Windows\x86\Debug\Content\CartaCosta.xnb
+C:\Users\CALVIN DO AMARAL\source\repos\teste\Game2\bin\Windows\x86\Debug\Content\fundo.xnb
+C:\Users\CALVIN DO AMARAL\source\repos\teste\Game2\bin\Windows\x86\Debug\Content\Puc.xnb
+C:\Users\CALVIN DO AMARAL\source\repos\teste\Game2\bin\Windows\x86\Debug\Content\Verdana.xnb
+C:\Users\CALVIN DO AMARAL\source\repos\teste\Game2\bin\Windows\x86\Debug\Content\fundotruco.xnb
+C:\Users\CALVIN DO AMARAL\source\repos\teste\Game2\bin\Windows\x86\Debug\Content\propaganda.xnb
+C:\Users\CALVIN DO AMARAL\source\repos\teste\Game2\bin\Windows\x86\Debug\Content\fundoverde.xnb
+C:\Users\CALVIN DO AMARAL\source\repos\teste\Game2\bin\Windows\x86\Debug\Content\bg amarelo.xnb
+D:\Arquivos de Programas\aquii\Portifolio Site\Truco\Game2\bin\Windows\x86\Debug\Content\Arial.xnb
+D:\Arquivos de Programas\aquii\Portifolio Site\Truco\Game2\bin\Windows\x86\Debug\Content\Arial14.xnb
+D:\Arquivos de Programas\aquii\Portifolio Site\Truco\Game2\bin\Windows\x86\Debug\Content\Arial18.xnb
+D:\Arquivos de Programas\aquii\Portifolio Site\Truco\Game2\bin\Windows\x86\Debug\Content\Arial24.xnb
+D:\Arquivos de Programas\aquii\Portifolio Site\Truco\Game2\bin\Windows\x86\Debug\Content\ArialGrande.xnb
+D:\Arquivos de Programas\aquii\Portifolio Site\Truco\Game2\bin\Windows\x86\Debug\Content\bg amarelo.xnb
+D:\Arquivos de Programas\aquii\Portifolio Site\Truco\Game2\bin\Windows\x86\Debug\Content\botao.xnb
+D:\Arquivos de Programas\aquii\Portifolio Site\Truco\Game2\bin\Windows\x86\Debug\Content\Calvin.xnb
+D:\Arquivos de Programas\aquii\Portifolio Site\Truco\Game2\bin\Windows\x86\Debug\Content\Carta1.xnb
+D:\Arquivos de Programas\aquii\Portifolio Site\Truco\Game2\bin\Windows\x86\Debug\Content\Carta10.xnb
+D:\Arquivos de Programas\aquii\Portifolio Site\Truco\Game2\bin\Windows\x86\Debug\Content\Carta11.xnb
+D:\Arquivos de Programas\aquii\Portifolio Site\Truco\Game2\bin\Windows\x86\Debug\Content\Carta12.xnb
+D:\Arquivos de Programas\aquii\Portifolio Site\Truco\Game2\bin\Windows\x86\Debug\Content\Carta13.xnb
+D:\Arquivos de Programas\aquii\Portifolio Site\Truco\Game2\bin\Windows\x86\Debug\Content\Carta14.xnb
+D:\Arquivos de Programas\aquii\Portifolio Site\Truco\Game2\bin\Windows\x86\Debug\Content\Carta15.xnb
+D:\Arquivos de Programas\aquii\Portifolio Site\Truco\Game2\bin\Windows\x86\Debug\Content\Carta16.xnb
+D:\Arquivos de Programas\aquii\Portifolio Site\Truco\Game2\bin\Windows\x86\Debug\Content\Carta17.xnb
+D:\Arquivos de Programas\aquii\Portifolio Site\Truco\Game2\bin\Windows\x86\Debug\Content\Carta18.xnb
+D:\Arquivos de Programas\aquii\Portifolio Site\Truco\Game2\bin\Windows\x86\Debug\Content\Carta19.xnb
+D:\Arquivos de Programas\aquii\Portifolio Site\Truco\Game2\bin\Windows\x86\Debug\Content\Carta2.xnb
+D:\Arquivos de Programas\aquii\Portifolio Site\Truco\Game2\bin\Windows\x86\Debug\Content\Carta20.xnb
+D:\Arquivos de Programas\aquii\Portifolio Site\Truco\Game2\bin\Windows\x86\Debug\Content\Carta21.xnb
+D:\Arquivos de Programas\aquii\Portifolio Site\Truco\Game2\bin\Windows\x86\Debug\Content\Carta22.xnb
+D:\Arquivos de Programas\aquii\Portifolio Site\Truco\Game2\bin\Windows\x86\Debug\Content\Carta23.xnb
+D:\Arquivos de Programas\aquii\Portifolio Site\Truco\Game2\bin\Windows\x86\Debug\Content\Carta24.xnb
+D:\Arquivos de Programas\aquii\Portifolio Site\Truco\Game2\bin\Windows\x86\Debug\Content\Carta25.xnb
+D:\Arquivos de Programas\aquii\Portifolio Site\Truco\Game2\bin\Windows\x86\Debug\Content\Carta26.xnb
+D:\Arquivos de Programas\aquii\Portifolio Site\Truco\Game2\bin\Windows\x86\Debug\Content\Carta27.xnb
+D:\Arquivos de Programas\aquii\Portifolio Site\Truco\Game2\bin\Windows\x86\Debug\Content\Carta28.xnb
+D:\Arquivos de Programas\aquii\Portifolio Site\Truco\Game2\bin\Windows\x86\Debug\Content\Carta29.xnb
+D:\Arquivos de Programas\aquii\Portifolio Site\Truco\Game2\bin\Windows\x86\Debug\Content\Carta3.xnb
+D:\Arquivos de Programas\aquii\Portifolio Site\Truco\Game2\bin\Windows\x86\Debug\Content\Carta30.xnb
+D:\Arquivos de Programas\aquii\Portifolio Site\Truco\Game2\bin\Windows\x86\Debug\Content\Carta31.xnb
+D:\Arquivos de Programas\aquii\Portifolio Site\Truco\Game2\bin\Windows\x86\Debug\Content\Carta32.xnb
+D:\Arquivos de Programas\aquii\Portifolio Site\Truco\Game2\bin\Windows\x86\Debug\Content\Carta33.xnb
+D:\Arquivos de Programas\aquii\Portifolio Site\Truco\Game2\bin\Windows\x86\Debug\Content\Carta34.xnb
+D:\Arquivos de Programas\aquii\Portifolio Site\Truco\Game2\bin\Windows\x86\Debug\Content\Carta35.xnb
+D:\Arquivos de Programas\aquii\Portifolio Site\Truco\Game2\bin\Windows\x86\Debug\Content\Carta36.xnb
+D:\Arquivos de Programas\aquii\Portifolio Site\Truco\Game2\bin\Windows\x86\Debug\Content\Carta37.xnb
+D:\Arquivos de Programas\aquii\Portifolio Site\Truco\Game2\bin\Windows\x86\Debug\Content\Carta38.xnb
+D:\Arquivos de Programas\aquii\Portifolio Site\Truco\Game2\bin\Windows\x86\Debug\Content\Carta39.xnb
+D:\Arquivos de Programas\aquii\Portifolio Site\Truco\Game2\bin\Windows\x86\Debug\Content\Carta4.xnb
+D:\Arquivos de Programas\aquii\Portifolio Site\Truco\Game2\bin\Windows\x86\Debug\Content\Carta40.xnb
+D:\Arquivos de Programas\aquii\Portifolio Site\Truco\Game2\bin\Windows\x86\Debug\Content\Carta5.xnb
+D:\Arquivos de Programas\aquii\Portifolio Site\Truco\Game2\bin\Windows\x86\Debug\Content\Carta6.xnb
+D:\Arquivos de Programas\aquii\Portifolio Site\Truco\Game2\bin\Windows\x86\Debug\Content\Carta7.xnb
+D:\Arquivos de Programas\aquii\Portifolio Site\Truco\Game2\bin\Windows\x86\Debug\Content\Carta8.xnb
+D:\Arquivos de Programas\aquii\Portifolio Site\Truco\Game2\bin\Windows\x86\Debug\Content\Carta9.xnb
+D:\Arquivos de Programas\aquii\Portifolio Site\Truco\Game2\bin\Windows\x86\Debug\Content\CartaCosta.xnb
+D:\Arquivos de Programas\aquii\Portifolio Site\Truco\Game2\bin\Windows\x86\Debug\Content\fundo.xnb
+D:\Arquivos de Programas\aquii\Portifolio Site\Truco\Game2\bin\Windows\x86\Debug\Content\fundotruco.xnb
+D:\Arquivos de Programas\aquii\Portifolio Site\Truco\Game2\bin\Windows\x86\Debug\Content\fundoverde.xnb
+D:\Arquivos de Programas\aquii\Portifolio Site\Truco\Game2\bin\Windows\x86\Debug\Content\propaganda.xnb
+D:\Arquivos de Programas\aquii\Portifolio Site\Truco\Game2\bin\Windows\x86\Debug\Content\Puc.xnb
+D:\Arquivos de Programas\aquii\Portifolio Site\Truco\Game2\bin\Windows\x86\Debug\Content\Verdana.xnb
+D:\Arquivos de Programas\aquii\Portifolio Site\Truco\Game2\bin\Windows\x86\Debug\Game2.exe
+D:\Arquivos de Programas\aquii\Portifolio Site\Truco\Game2\bin\Windows\x86\Debug\Game2.pdb
+D:\Arquivos de Programas\aquii\Portifolio Site\Truco\Game2\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\Arquivos de Programas\aquii\Portifolio Site\Truco\Game2\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\Arquivos de Programas\aquii\Portifolio Site\Truco\Game2\bin\Windows\x86\Debug\SharpDX.dll
+D:\Arquivos de Programas\aquii\Portifolio Site\Truco\Game2\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\Arquivos de Programas\aquii\Portifolio Site\Truco\Game2\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\Arquivos de Programas\aquii\Portifolio Site\Truco\Game2\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\Arquivos de Programas\aquii\Portifolio Site\Truco\Game2\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\Arquivos de Programas\aquii\Portifolio Site\Truco\Game2\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\Arquivos de Programas\aquii\Portifolio Site\Truco\Game2\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+D:\Arquivos de Programas\aquii\Portifolio Site\Truco\Game2\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\Arquivos de Programas\aquii\Portifolio Site\Truco\Game2\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\Arquivos de Programas\aquii\Portifolio Site\Truco\Game2\bin\Windows\x86\Debug\SharpDX.xml
+D:\Arquivos de Programas\aquii\Portifolio Site\Truco\Game2\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\Arquivos de Programas\aquii\Portifolio Site\Truco\Game2\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\Arquivos de Programas\aquii\Portifolio Site\Truco\Game2\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\Arquivos de Programas\aquii\Portifolio Site\Truco\Game2\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\Arquivos de Programas\aquii\Portifolio Site\Truco\Game2\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\Arquivos de Programas\aquii\Portifolio Site\Truco\Game2\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+D:\Arquivos de Programas\aquii\Portifolio Site\Truco\Game2\obj\x86\Debug\Game2.csprojAssemblyReference.cache
+D:\Arquivos de Programas\aquii\Portifolio Site\Truco\Game2\obj\x86\Debug\Game2.csproj.CoreCompileInputs.cache
+D:\Arquivos de Programas\aquii\Portifolio Site\Truco\Game2\obj\x86\Debug\Game2.csproj.CopyComplete
+D:\Arquivos de Programas\aquii\Portifolio Site\Truco\Game2\obj\x86\Debug\Game2.exe
+D:\Arquivos de Programas\aquii\Portifolio Site\Truco\Game2\obj\x86\Debug\Game2.pdb
